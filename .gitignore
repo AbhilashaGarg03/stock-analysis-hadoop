@@ -1,0 +1,44 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Hadoop files
+hadoop-logs/
+*.log
+namenode/
+datanode/
+
+# Hive files
+metastore/
+*.jdbc
+
+# Java files
+*.class
+*.jar
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+hdfs-data/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Cache
+.cache/
+
+# Images (large)
+*.jpg
+*.png
+*.gif
